@@ -1,6 +1,7 @@
 The first ALX peer project me Amhasilase Tilahun and Dagmawi Misganw
 
-Project Name :0x16. C - Simple Shell
+Project Name :0x16. C - Simple Shell  
+
 Our own simple shell is About
 Shell is a user interface to use the services of a computer. It can be a command-line interface –the one we will build- or graphical user interface, like regular software such as Windows Office.
 
